@@ -8,4 +8,4 @@ Cloud computing models allow for more flexible software solutions. You can termi
 ### Cloud Service Models
 There are 3 main CSMs. IaaS, PaaS, and SaaS.
 
-**IaaS (Infrastructure as a Service):** The services in this category usually provide you with access to features such as networking, computers, and data storage space. This has the highest level of flexibility and control over the IT resources you paid for.
+**1. IaaS (Infrastructure as a Service):** The services in this category usually provide you with access to features such as networking, computers, and data storage space. This has the highest level of flexibility and control over the IT resources you paid for.
