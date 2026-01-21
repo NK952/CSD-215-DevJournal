@@ -13,3 +13,10 @@ There are 3 main CSMs. IaaS, PaaS, and SaaS.
 **2. PaaS (Platform as a Service):** There is less freedom over the hardware and OS, which gives you time to focus on deployment and management of applications.
 
 **3. SaaS (Software as a Service):** With this, the service provider gives you the complete product, which means there is no need to think about how the infrastructure is managed, only the software given to you.
+
+### Cloud Deployment Models
+**1. Cloud:** This is fully developed and runs in the cloud. Some applications may have migrated from existing infrastructure to reap the benefits of cloud computing. Cloud-based apps can be built on low or high level infrastructure.
+
+**2. Hybrid:** This connects applications between cloud-based resources and resources not on the cloud. This usually takes place between cloud and on-premises infrastructure.
+
+**3. On-premises:** Basically a private cloud sometimes using virtualization and resource management tools.
