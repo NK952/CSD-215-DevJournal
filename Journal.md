@@ -6,3 +6,4 @@ Unlike cloud computing, traditional computing has a long procurement cycle, requ
 Cloud computing models allow for more flexible software solutions. You can terminate unneeded resources on-demand and pay only for what you use. You can also scale resources up or down fairly easily.
 
 ## Cloud Service Models
+dfvekjverojvbo
