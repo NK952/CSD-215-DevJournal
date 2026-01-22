@@ -28,4 +28,6 @@ There are 3 main CSMs. IaaS, PaaS, and SaaS.
 
 3. Eliminate guessing about infrastruxture capacity. With cloud computing, you can as much or as little as needed, and scaling up or down is easier and faster.
 
-4. 
+4. With cloud computing, new IT resources can be acquired within minutes, reducing the time it takes to make these resources available to developers.
+
+5. You can stop spending money on running and maintaining data centers. 
