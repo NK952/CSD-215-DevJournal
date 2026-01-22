@@ -31,3 +31,6 @@ There are 3 main CSMs. IaaS, PaaS, and SaaS.
 4. With cloud computing, new IT resources can be acquired within minutes, reducing the time it takes to make these resources available to developers.
 
 5. You can stop spending money on running and maintaining data centers. 
+
+## Intro to AWS
+AWS is a secure cloud plaform that offers a lot of global cloud-based services.
