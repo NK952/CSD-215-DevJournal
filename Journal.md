@@ -23,3 +23,9 @@ There are 3 main CSMs. IaaS, PaaS, and SaaS.
 
 ## Advantages of CLoud Computing
 1. Companies can trade capital expense (which is the money the company uses to acquire, maintain and upgrade physical hardware, whether its being used or not) for variable expense (expenses that can easily be altered or even avoided). In other words, you only pay for what is being used, not everything you acquired, saving money on technology.
+
+2. You can benefit from massive economies of scale. You can gain lower variable cost because usage from thousands of customers is aggregated in the cloud. AWS achieves higher economies of scale which becomes lower pay-as-you-go prices for the customer.
+
+3. Eliminate guessing about infrastruxture capacity. With cloud computing, you can as much or as little as needed, and scaling up or down is easier and faster.
+
+4. 
