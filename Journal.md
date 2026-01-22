@@ -20,3 +20,6 @@ There are 3 main CSMs. IaaS, PaaS, and SaaS.
 **2. Hybrid:** This connects applications between cloud-based resources and resources not on the cloud. This usually takes place between cloud and on-premises infrastructure.
 
 **3. On-premises:** Basically a private cloud sometimes using virtualization and resource management tools.
+
+## Advantages of CLoud Computing
+1. Companies can trade capital expense (which is the money the company uses to acquire, maintain and upgrade physical hardware, whether its being used or not) for variable expense (expenses that can easily be altered or even avoided). In other words, you only pay for what is being used, not everything you acquired, saving money on technology.
