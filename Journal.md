@@ -35,4 +35,7 @@ There are 3 main CSMs. IaaS, PaaS, and SaaS.
 ## Intro to AWS
 AWS is a secure cloud plaform that offers a lot of global cloud-based services. You pay only for the services you use and how long you use them.
 
-The services you choose depends on the goals of your business and tech requiremnts.
+The services you choose depends on the goals of your business and tech requiremnts. Some AWS services include:
+
+**1. Compute Services:**
+* Amazon EC2
