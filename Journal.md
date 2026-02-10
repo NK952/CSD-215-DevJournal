@@ -63,5 +63,12 @@ The services you choose depends on the goals of your business and tech requiremn
 * AWS Organizations
 
 There are 3 ways to interact with AWS:
+
 **AWS Management Console:** A graphical interface with majority of the features offered by AWS.
+
+**AWS Command Line Interface:** Provides utilities that can be launched using a command line script in Linux, Mac or Windows.
+
+**Software Development Kits:** Provides packages used to access AWS in different programming languages. This is easy to use in existing applications and also allows you to create applications to deploy.
+
+## AWS Cloud Adoption Framework
 
