@@ -39,3 +39,29 @@ The services you choose depends on the goals of your business and tech requiremn
 
 **1. Compute Services:**
 * Amazon EC2
+* AWS Lambda
+* Amazon Elastic Beastalk
+* Amazon EC2 Auto Scaling
+* Amazon ECS, EKS and ECR
+* AWS Fargate
+
+**2. Storage Services:**
+* Amazon S3
+* Amzon S3 Glacier
+* Amazon EFS
+* Amazon EBS
+
+**3. Management and Governance services**
+*AWS Trusted Advisor
+*AWS CloudWatch
+*AWS CloudTrail
+*AWS Well-Architected Tool
+*AWS Auto Scaling
+*AWS Command Line Interface
+*AWS Config
+*AWS Management Console
+*AWS Organizations
+
+There are 3 ways to interact with AWS:
+**AWS Management Console:** A graphical interface with majority of the features offered by AWS.
+
