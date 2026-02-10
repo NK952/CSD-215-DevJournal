@@ -71,4 +71,6 @@ There are 3 ways to interact with AWS:
 **Software Development Kits:** Provides packages used to access AWS in different programming languages. This is easy to use in existing applications and also allows you to create applications to deploy.
 
 ## AWS Cloud Adoption Framework
-
+The AWS CAF provides guidance to help organizarions build a comprehensive approach to cloud computing across the organization to accelerate successful cloud computing. In order for an organization to successfully migrate to the cloud, 3 elements (ie. people, processes and technology) must be aligned. AWS consists of six perspectives:
+* Business capabilities: Business, people and governance.
+* Technical capabilities: Platform, security and operations.
