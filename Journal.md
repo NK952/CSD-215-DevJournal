@@ -88,3 +88,7 @@ The AWS CAF provides guidance to help organizarions build a comprehensive approa
 **Operations Perspective:** Service monitoring, app performance monitoring, resource inventory management, reportng and analysis and IT service catalog.
 
 ## Economics and Billing
+There are 3 fundamental cost drivers with AWS;
+* Compute: Charged by the hour usually and varies by instance type.
+* Storage: Usually charged per GB.
+* Data transfer: Outbound is charged but inbound isn't. Also usually charged by GB.
