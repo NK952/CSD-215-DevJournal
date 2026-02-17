@@ -92,3 +92,10 @@ There are 3 fundamental cost drivers with AWS;
 * Compute: Charged by the hour usually and varies by instance type.
 * Storage: Usually charged per GB.
 * Data transfer: Outbound is charged but inbound isn't. Also usually charged by GB.
+
+Reserved instances help you to save 75% over equivalent on-demand capacity. There are 3 options:
+* All Upfront Reserved Instances
+* Partial Upfront reserved instances
+* No upfront reserved instances
+
+As AWS grows, they focus on lowering the cost of doing business, which results in savings from economies of scale being passed to the user.
