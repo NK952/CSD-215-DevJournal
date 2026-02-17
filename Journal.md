@@ -99,3 +99,15 @@ Reserved instances help you to save 75% over equivalent on-demand capacity. Ther
 * No upfront reserved instances
 
 As AWS grows, they focus on lowering the cost of doing business, which results in savings from economies of scale being passed to the user.
+
+AWS Free Tier allows you to gain free hands-on experience with the AWS platform products and services for 1 year if you're a new customer. You can run a free EC2 T2 micro instance, while using Amazon S3, EBS, Elastic Load Balancing and others.
+
+Some services with no charge include:
+* Amazon VPC
+* Elastic Beanstalk
+* Auto Scaling
+* AWS Cloud Formation
+* AWS IAM
+
+**Total Cost of Ownership** is the financial estimate to help identify direct and indirect system costs. Businesses use TCO to compare the cost of running the entire infrastructure workload versus on AWS. They also use it to budget and build a case for moving to the cloud.
+
