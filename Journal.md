@@ -77,4 +77,14 @@ The AWS CAF provides guidance to help organizarions build a comprehensive approa
 
 **Business Prespective:** Deals with IT finance, IT stategy, benefits realization and business risk management.
 
-**People's Perspective:** 
+**People's Perspective:** Deals with resource management, incentive management, career mangement, training management and organizational change management.
+
+**Governance Perspective:** Deals with Portfolio management, program and project management, business performance measurement and license management.
+
+**Platform Perspective:** Deals with compute provisioning, network provisioning, storage provisioning, database provisioning, systems and solutions architecture and app development.
+
+**Security Perspective:** Identity and access management, detective control, infrastructure security, data protection and incident response.
+
+**Operations Perspective:** Service monitoring, app performance monitoring, resource inventory management, reportng and analysis and IT service catalog.
+
+## Economics and Billing
