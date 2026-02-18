@@ -122,3 +122,9 @@ You can use the AWS Pricing calculator to estimate the monthly cost of your use 
 AWS Organizations enables you to consolidate multiple AWS accounts into an organization that you create and centrally manage.
 
 An organizational unit is a container for accounts within a root.
+
+Here are the steps for setting up AWS Organizations:
+* Create the organizaton with the current AWS account as the primary account. Invite an AWS account to join the organization and create a new account as a member.
+* Create 2 organizational units in the new organization and put the member accounts into those units.
+* Create service control policies.
+* Test those policies.
