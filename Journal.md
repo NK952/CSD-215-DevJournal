@@ -111,3 +111,14 @@ Some services with no charge include:
 
 **Total Cost of Ownership** is the financial estimate to help identify direct and indirect system costs. Businesses use TCO to compare the cost of running the entire infrastructure workload versus on AWS. They also use it to budget and build a case for moving to the cloud.
 
+TCO considerations include:
+* Server costs
+* Storage costs
+* Network costs
+* IT labor costs
+
+You can use the AWS Pricing calculator to estimate the monthly cost of your use cases on AWS.
+
+AWS Organizations enables you to consolidate multiple AWS accounts into an organization that you create and centrally manage.
+
+An organizational unit is a container for accounts within a root.
