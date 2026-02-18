@@ -128,3 +128,13 @@ Here are the steps for setting up AWS Organizations:
 * Create 2 organizational units in the new organization and put the member accounts into those units.
 * Create service control policies.
 * Test those policies.
+
+For accessibility:List of the AWS Organizations limits, including names, number of accounts (varies), number of roots (1), number of OUs(1,000), number of policies (1,000), max size of control policy document (5,120 bytes), max nesting of BUs (5 levels of BUs under a root), invitations sent per day (20), member accounts created concurrently (5), and entities to which you can attach a policy (unlimited).End of accessibility description.AWS Training and Certification Module 2: Cloud Economics and Billing © 2022, Amazon Web Services, Inc. or its affiliates. All rights reserved. 45 
+
+AWS Organizations can be managed through:
+* AWS Management Console
+* AWS Command Line Interface
+* AWS Software Development Kits
+* AWS Organizations HTTPS Query API
+
+AWS Billing and Cost Management is the service that you use to pay your AWS bill, monitor your usage, and budget your costs.
