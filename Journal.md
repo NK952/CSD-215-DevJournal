@@ -138,3 +138,16 @@ AWS Organizations can be managed through:
 * AWS Organizations HTTPS Query API
 
 AWS Billing and Cost Management is the service that you use to pay your AWS bill, monitor your usage, and budget your costs.
+
+AWS support offers four plans:
+* Basic Support
+* Developer Support
+* Business Support
+* Enterprise Support
+
+ In addition to the support plan you select, the case severity will drive the type of response that you receive. There are five different severity levels:
+ * Critical–Your business is at risk. Critical functions of your application are unavailable.
+ * Urgent–Your business is significantly impacted. Important functions of your application are unavailable.
+ * High–Important functions of your application are impaired or degraded.
+ * Normal–Non-critical functions of your application are behaving abnormally, or you have a time-sensitive development question.
+ * Low–You have a general development question, or you want to request a feature
