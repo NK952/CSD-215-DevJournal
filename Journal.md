@@ -171,5 +171,6 @@ Features of AWS infrastructure include:
 * High availability
 
 **AWS Categories of Service:**
+
  **Storage:**
    * Amazon Simple Storage Service (S3): is an object storage service that offers scalability, data availability, security, and performance. Use it to store and protect any amount of data for websites, mobile apps, backup and restore, archive, enterprise applications, Internet of Things (IoT) devices, and big data analytics.  
