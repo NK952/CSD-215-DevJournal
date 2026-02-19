@@ -158,3 +158,18 @@ The AWS Global Infrastructure is designed and built to deliver a flexible, relia
 An AWS region is a real geographical area. Reagions usually consist of 2 or more avaliability zones, which consist od one or more data centers. AWS has 22 regions worldwide.
 
 AWS Data Centers are designed for security. Each one has redundant power, networking and connectivity and is housed in a separate facility. They typically have 50,000 to 80,000 physical servers.
+
+AWS provides global Points of Presence locations. It consists of edge locations and a much smaller number of regional edge caches.
+
+Amazon CloudFront is a content delivery network (CDN) used to distribute content to end users to reduce latency.
+
+Regional edge caches are used when you have content that is not accessed frequently enough to remain in an edge location. Regional edge caches absorb this content and provide an alternative to that content having to be fetched from the origin server.
+
+Features of AWS infrastructure include:
+* Elasticity and scalability
+* Fault-tolerance
+* High availability
+
+**AWS Categories of Service:**
+ **Storage:**
+   * Amazon Simple Storage Service (S3): is an object storage service that offers scalability, data availability, security, and performance. Use it to store and protect any amount of data for websites, mobile apps, backup and restore, archive, enterprise applications, Internet of Things (IoT) devices, and big data analytics.  
