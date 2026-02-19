@@ -151,3 +151,10 @@ AWS support offers four plans:
  * High–Important functions of your application are impaired or degraded.
  * Normal–Non-critical functions of your application are behaving abnormally, or you have a time-sensitive development question.
  * Low–You have a general development question, or you want to request a feature
+
+## AWS Global Infrasructure
+The AWS Global Infrastructure is designed and built to deliver a flexible, reliable, scalable, and securecloud computing environment with high-quality global network performance.
+
+An AWS region is a real geographical area. Reagions usually consist of 2 or more avaliability zones, which consist od one or more data centers. AWS has 22 regions worldwide.
+
+AWS Data Centers are designed for security. Each one has redundant power, networking and connectivity and is housed in a separate facility. They typically have 50,000 to 80,000 physical servers.
