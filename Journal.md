@@ -192,4 +192,13 @@ Features of AWS infrastructure include:
 A programming paradigm is an approach to programming using a set of techniques to make code easier to write, read and maintain. Examples of programming paradigms include Structured programming, Object Oriented Programming, and Functional Programming.
 
 * Structured Programming: This uses "flow-of-control" programming structures such as conditionals, loops, function calls and returns, "try/catch"es, etc. Before this, there was "goto", but with code becoming more and more complex, this was abandoned for better flow control.
-* Object-Oriented Programming: Everything is an "object" and programs are written using objects that communicate with each other to complete tasks. Instance variables(state) and methods(behaviour) belong together in classes and objects. Code among common sub-types can be shared by way of class hierarchies and inheritance. Calling the same method on a different sub-type may cause it to behave different(polymorphism).
+* Object-Oriented Programming: Everything is an "object" and programs are written using objects that communicate with each other to complete tasks. Instance variables(state) and methods(behaviour) belong together in classes and objects. Code among common sub-types can be shared by way of class hierarchies and inheritance. Calling the same method on a different sub-type may cause it to behave different(polymorphism). OOP languages include C++, C#, Java, Python, Ruby, etc.
+* Functional Programming: This is often academic and jargon-y. It also has Monads, Functions and Lambdas. This is because functional programming is rooted in Lambda Calculus(math..yay😒). FP involves software using pure mathematical functions that have little to no side effects. Data should be immutable and changes to data should be represented by creating new values with the changes. And use pure functions to avoid side effects.
+
+There are types of functional programming languages:
+* More or less pure functional languages
+
+Side effects are anything a function does other than return a value, for example updating databases or sending databases. They can sometimes cause problems when they are unwanted.
+
+A pure function is a function that depends on only its parameters and has no side effects. An impure function is the opposite.
+
