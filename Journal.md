@@ -206,4 +206,12 @@ Side effects are anything a function does other than return a value, for example
 A pure function is a function that depends on only its parameters and has no side effects. An impure function is the opposite.
 
 **OOP vs FP**
-OOP
+
+OOP is designed for when there are many things that each have a fixed set of operations. FP is designed for when there are many operations, that work with a fixed set of things. Also, interms of writing distributed software, FP has better tools than OOP. In other words, FP techniques are better for systems that must communicate over a network.
+
+## Data, Calculations and Actions
+Actions are instructions for which the time and order which they are called matters. They usually have side effects ie. they are impure functions. Examples of actions include printing to the screen, sending emails and updating databases. Anything for which time and order do not matter isn't an action. It is either a calculation or data.
+
+Data doesn't do any work. It is simply facts about events. Examples are objects, lists, arrays etc. There are two kinds of data; mutable and immutable. Immutable data is preferred over mutable data.
+
+Calculations 
