@@ -214,4 +214,23 @@ Actions are instructions for which the time and order which they are called matt
 
 Data doesn't do any work. It is simply facts about events. Examples are objects, lists, arrays etc. There are two kinds of data; mutable and immutable. Immutable data is preferred over mutable data.
 
-Calculations 
+Calculations are computations from input to output. They have no side effects. The inputs and outputs of calculations are usually data. Calculations are typically preferred over actions.
+
+Referential transparency occurs if a call to a function can be replaced by the value it returns without changing the original program. Calculations are an example of this.
+
+Function composition involves calling a function with the results of another function. Calculations are easy to compose because of their referential transparency.
+
+**Practical Functional Programming**
+
+It is an important skill to recognize which parts of a program are data, calculations and actions. Before coding, functional programmers need to think about 3 things:
+* What data needs to be captured?
+* What decisions and computations need to be made and performed?
+* What parts of the program rquire attention about order and timing?
+
+While coding, you must constantly look for ways to separate data from calculations and calculations from actions.
+
+You can think of software design like an orange; The inside is the functional core and the outer peel is the imperative shell.
+
+**Functional Core:** This contains all immutable data and pure functions. This is also where all application logic goes. There is no direct reference to things in the outside world such as databases and networks.
+
+**Imperative Shell:** There is minimal logic due to delegation to functional core. It sequences operations and interacts with things in the outside world. Also coordinates data between imperative shell and functional core.
