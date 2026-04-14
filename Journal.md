@@ -187,3 +187,9 @@ Features of AWS infrastructure include:
   * AWS Lambda enables you to run code without provisioning or managing servers. You pay only for the compute time that you consume. There is no charge when your code is not running.
   * Amazon Elastic Kubernetes Service (Amazon EKS) makes it easy to deploy, manage, and scale containerized applications that use Kubernetes on AWS.
   * AWS Fargate is a compute engine for Amazon ECS that allows you to run containers without having to manage servers or clusters.
+
+## Programming Paradigms
+A programming paradigm is an approach to programming using a set of techniques to make code easier to write, read and maintain. Examples of programming paradigms include Structured programming, Object Oriented Programming, and Functional Programming.
+
+* Structured Programming: This uses "flow-of-control" programming structures such as conditionals, loops, function calls and returns, "try/catch"es, etc. Before this, there was "goto", but with code becoming more and more complex, this was abandoned for better flow control.
+* Object-Oriented Programming: Everything is an "object" and programs are written using objects that communicate with each other to complete tasks. Instance variables(state) and methods(behaviour) belong together in classes and objects. Code among common sub-types can be shared by way of class hierarchies and inheritance. Calling the same method on a different sub-type may cause it to behave different(polymorphism).
