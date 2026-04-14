@@ -196,9 +196,14 @@ A programming paradigm is an approach to programming using a set of techniques t
 * Functional Programming: This is often academic and jargon-y. It also has Monads, Functions and Lambdas. This is because functional programming is rooted in Lambda Calculus(math..yay😒). FP involves software using pure mathematical functions that have little to no side effects. Data should be immutable and changes to data should be represented by creating new values with the changes. And use pure functions to avoid side effects.
 
 There are types of functional programming languages:
-* More or less pure functional languages
+* More or less pure functional languages: There is the lisp style like CLojure, Common Lisp and Racket and there are others like ELixir, Erlang and F#.
+* Languages that support a functional style: These are many modern languages like Java, JavaScript, Kotlin, Python, C++ and C#.
+
+Both OOP and FP can be used within the same program. In fact, most programs use multiple paradigms.
 
 Side effects are anything a function does other than return a value, for example updating databases or sending databases. They can sometimes cause problems when they are unwanted.
 
 A pure function is a function that depends on only its parameters and has no side effects. An impure function is the opposite.
 
+**OOP vs FP**
+OOP
