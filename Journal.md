@@ -243,6 +243,10 @@ Java records can be used to represent data types. Enums can be used to represent
 
 Sealed interface only allow a predetermine set of subtypes.
 
+You can extract claculations from actions:
+* Identify parts of actions that are calculations and extract them into a separate subroutine.
+* Identify that new subroutines implicit inputs and outputs.
+* Convert implicit inputs into parameters and explicit outputs into return values.
 Any function that calls an action is also an action because it has a side effect.
 
 Inputs and outputs can be either implicit or explicit. Parameters are explicit inputs and Returned values are explicit outputs. Any other input or output would be implicit, making the function an action. Calculations only have explicit inputs and outputs.
