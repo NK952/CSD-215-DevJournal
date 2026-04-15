@@ -234,3 +234,7 @@ You can think of software design like an orange; The inside is the functional co
 **Functional Core:** This contains all immutable data and pure functions. This is also where all application logic goes. There is no direct reference to things in the outside world such as databases and networks.
 
 **Imperative Shell:** There is minimal logic due to delegation to functional core. It sequences operations and interacts with things in the outside world. Also coordinates data between imperative shell and functional core.
+
+Simpler actions, calculations and data can hide in complex actions. Data doesn't hide anything, and as for calculations, we can just do in our heads.
+
+The common order of implementations goes: Data -> Calculations -> Actions.
